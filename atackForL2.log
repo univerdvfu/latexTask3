@@ -1,13 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.3)  2 MAY 2023 12:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.3)  2 MAY 2023 13:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./atackForL2.tex
 (atackForL2.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-07> (D:\miltex\tex/latex/base\report.cls
+L3 programming layer <2023-02-07>
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
-(D:\miltex\tex/latex/base\size12.clo
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -22,14 +23,16 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (D:\miltex\tex/latex/base\fontenc.sty
+)
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 
-(D:\miltex\tex/latex/cyrillic\t2aenc.def
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
 File: t2aenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
- (D:\miltex\tex/latex/base\t2aenc.dfu
+
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/base\t2aenc.dfu
 File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
@@ -232,27 +235,29 @@ File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
 ))
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
 12.
-(D:\miltex\tex/latex/cyrillic\t2acmr.fd
+
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
-(D:\miltex\tex/generic/babel\babel.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count194
 \U@D=\dimen141
 \l@unhyphenated=\language79
 
-(D:\miltex\tex/generic/babel\txtbabel.def)
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count195
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(D:\miltex\tex/latex/arabi\bblopts.cfg
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(D:\miltex\tex/latex/babel-english\english.ldf
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -261,87 +266,92 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
 )
-(D:\miltex\tex/latex/babel-russian\russianb.ldf
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.
+ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
 Language: russian 2020/09/09 1.3k Russian support for the Babel system
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
-(D:\miltex\tex/generic/babel/locale/ru\babel-russian.tex
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/ru\babel
+-russian.tex
 Package babel Info: Importing font and identification data for russian
 (babel)             from babel-ru.ini. Reported on input line 11.
 )
-(D:\miltex\tex/generic/babel/locale/en\babel-english.tex
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
-(D:\miltex\tex/latex/graphics\graphicx.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(D:\miltex\tex/latex/graphics\keyval.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(D:\miltex\tex/latex/graphics\graphics.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
-(D:\miltex\tex/latex/graphics\trig.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 )
-(D:\miltex\tex/latex/graphics-cfg\graphics.cfg
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 
-(D:\miltex\tex/latex/graphics-def\pdftex.def
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen142
 \Gin@req@width=\dimen143
-)
-(D:\miltex\tex/latex/base\inputenc.sty
+) (C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
 )
-(D:\miltex\tex/latex/biblatex\biblatex.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
 Package: biblatex 2022/07/12 v3.18b programmable bibliographies (PK/MW)
 
-(D:\miltex\tex/generic/pdftexcmds\pdftexcmds.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(D:\miltex\tex/generic/infwarerr\infwarerr.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(D:\miltex\tex/generic/iftex\iftex.sty
+) (C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
-(D:\miltex\tex/generic/ltxcmds\ltxcmds.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(D:\miltex\tex/latex/etoolbox\etoolbox.sty
+) (C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count196
 )
-(D:\miltex\tex/latex/kvoptions\kvoptions.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 
-(D:\miltex\tex/latex/kvsetkeys\kvsetkeys.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-))
-(D:\miltex\tex/latex/logreq\logreq.sty
+)) (C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
 \lrq@indent=\count197
- (D:\miltex\tex/latex/logreq\logreq.def
+
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-)) (D:\miltex\tex/latex/base\ifthen.sty
+))
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (D:\miltex\tex/latex/url\url.sty
+)
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -405,7 +415,7 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(D:\miltex\tex/latex/biblatex\blx-dm.def
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
 File: blx-dm.def 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
@@ -497,15 +507,14 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(D:\miltex\tex/latex/biblatex\blx-compat.def
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.def
 File: blx-compat.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
-(D:\miltex\tex/latex/biblatex\blx-bibtex.def
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.def
 File: blx-bibtex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
-
 
 Package biblatex Warning: Using fall-back BibTeX(8) backend:
 (biblatex)                functionality may be reduced/unavailable.
@@ -513,7 +522,7 @@ Package biblatex Warning: Using fall-back BibTeX(8) backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (D:\miltex\tex/latex/biblatex\biblatex.def
+ (C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 \c@textcitecount=\count378
 \c@textcitetotal=\count379
@@ -532,17 +541,20 @@ File: biblatex.def 2022/07/12 v3.18b biblatex compatibility (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.bbx' found.
 
-(D:\miltex\tex/latex/biblatex/bbx\numeric-comp.bbx
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric-co
+mp.bbx
 File: numeric-comp.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(D:\miltex\tex/latex/biblatex/bbx\numeric.bbx
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\numeric.bb
+x
 File: numeric.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(D:\miltex\tex/latex/biblatex/bbx\standard.bbx
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.b
+bx
 File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 \c@bbx:relatedcount=\count387
 \c@bbx:relatedtotal=\count388
@@ -550,7 +562,8 @@ File: standard.bbx 2022/07/12 v3.18b biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load citation style 'numeric-comp'...
 Package biblatex Info: ... file 'numeric-comp.cbx' found.
 
-(D:\miltex\tex/latex/biblatex/cbx\numeric-comp.cbx
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\numeric-co
+mp.cbx
 File: numeric-comp.cbx 2022/07/12 v3.18b biblatex citation style (PK/MW)
 \c@cbx@tempcnta=\count389
 \c@cbx@tempcntb=\count390
@@ -571,16 +584,17 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(D:\miltex\tex/latex/biblatex\biblatex.cfg
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 
-(D:\miltex\tex/latex/l3kernel\expl3.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2023-02-07 L3 programming layer (loader) 
 
-(D:\miltex\tex/latex/l3backend\l3backend-pdftex.def
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count393
 \l__pdf_internal_box=\box51
@@ -590,8 +604,10 @@ Package biblatex Info: ... and expl3
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
 
-(D:\miltex\tex/latex/biblatex\blx-case-expl3.sty
-(D:\miltex\tex/latex/l3packages/xparse\xparse.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl3
+.sty
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
 Package: xparse 2023-01-16 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2022/07/12 v3.18b expl3 case changing code for biblatex
@@ -603,7 +619,11 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count394
 \@quotereset=\count395
-(atackForL2.aux)
+(atackForL2.aux
+
+LaTeX Warning: Label `chargets' multiply defined.
+
+)
 \openout1 = `atackForL2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -623,7 +643,9 @@ LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Info: Redefining \th on input line 10.
- (D:\miltex\tex/context/base/mkii\supp-pdf.mkii
+
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count396
 \scratchdimen=\dimen144
@@ -636,24 +658,29 @@ LaTeX Info: Redefining \th on input line 10.
 \MPnumerator=\count400
 \makeMPintoPDFobject=\count401
 \everyMPtoPDFconversion=\toks20
-) (D:\miltex\tex/latex/epstopdf-pkg\epstopdf-base.sty
+)
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(D:\miltex\tex/latex/00miktex\epstopdf-sys.cfg
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package biblatex Info: Trying to load language 'russian'...
 Package biblatex Info: ... file 'russian.lbx' found.
 
-(D:\miltex\tex/latex/biblatex/lbx\russian.lbx
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\russian.lb
+x
 File: russian.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(D:\miltex\tex/latex/biblatex/lbx\english.lbx
+(C:\Users\Valya\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\english.lb
+x
 File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -679,27 +706,39 @@ Package pdftex.def Info: img/2.jpg  used on input line 21.
 [1
 
 
-{C:/Users/79146/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/2.jpg>
-] [2] (atackForL2.aux)
+{C:/Users/Valya/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/2.jpg>
+]
+<img/image001.png, id=9, 469.25313pt x 192.72pt>
+File: img/image001.png Graphic file (type png)
+<use img/image001.png>
+Package pdftex.def Info: img/image001.png  used on input line 32.
+(pdftex.def)             Requested size: 211.16194pt x 86.72319pt.
+ [2 <./img/image001.png>] [3
+
+] (atackForL2.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package logreq Info: Writing requests to 'atackForL2.run.xml'.
 \openout1 = `atackForL2.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11363 strings out of 476339
- 210901 string characters out of 5804535
- 1854340 words of memory out of 5000000
- 31682 multiletter control sequences out of 15000+600000
- 516638 words of font info for 38 fonts, out of 8000000 for 9000
+ 11580 strings out of 476339
+ 220197 string characters out of 5788120
+ 1855340 words of memory out of 5000000
+ 31896 multiletter control sequences out of 15000+600000
+ 517508 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,8n,68p,1891b,1676s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\79146\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm12
-00.pk> <C:\Users\79146\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
-bx1728.pk> <C:\Users\79146\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
-0\labx2488.pk>
-Output written on atackForL2.pdf (2 pages, 58763 bytes).
+ 63i,8n,68p,1891b,1680s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Valya\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati12
+00.pk> <C:\Users\Valya\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
+rm1200.pk> <C:\Users\Valya\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
+0\labx1728.pk> <C:\Users\Valya\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/d
+pi600\labx2488.pk>
+Output written on atackForL2.pdf (3 pages, 117993 bytes).
 PDF statistics:
- 120 PDF objects out of 1000 (max. 8388607)
+ 172 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
